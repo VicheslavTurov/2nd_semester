@@ -1,17 +1,19 @@
-# Programming: Second Semester
+# Программирование: Второй семестр
 
-This repository contains laboratory works for the second semester of the "Programming" course.
+Этот репозиторий содержит лабораторные работы для второго семестра курса «Программирование».
 
-## Overview
-The coursework is focused on software development using the **C#** programming language and the .NET ecosystem.
+## Обзор
+Курс посвящен разработке программного обеспечения с использованием языка программирования **C#** и экосистемы .NET.
 
-## Project Structure
-Each laboratory work is organized into its own directory containing the source code and project files:
-* `/lab_01` — Topic name or brief description
-* `/lab_02` — Topic name or brief description
+## Структура проекта
+Каждая лабораторная работа организована в отдельную директорию, содержащую исходный код и файлы проекта:
+* `/lab_01` — Название темы или краткое описание
+* `/lab_02` — Название темы или краткое описание
 
-## Workflow
-The development process follows a specific branching strategy:
-1. **dev**: Primary development branch.
-2. **test**: Review branch for Team Lead approval.
-3. **main**: Production branch for final submission and instructor grading.
+## Рабочий процесс
+Процесс разработки следует определенной стратегии ветвления:
+1. **dev**: Основная ветвь разработки.
+
+2. **test**: Ветка проверки для утверждения руководителем группы.
+
+3. **main**: Ветка производства для окончательной сдачи и оценки преподавателем.
