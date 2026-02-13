@@ -5,7 +5,7 @@ namespace BaseCSharpTasks
   class Program
   {
     static void Main(string[] args) {
-      // Task 1: Power calculation using only multiplication
+      // Task 1: Power calculation using only multiplication.
       int baseNumber;
       int powerValue;
       long powerResult;
@@ -26,7 +26,7 @@ namespace BaseCSharpTasks
 
       Console.WriteLine($"\nResult of a^n calculation:\n{baseNumber}^{powerValue} = {powerResult}\n");
 
-      // Task 2: Remove second digit and append it to the end
+      // Task 2: Remove second digit and append it to the end.
       string inputNumber;
       char secondDigit;
       string numberWithoutSecondDigit;
